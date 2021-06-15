@@ -1,4 +1,4 @@
-### Hi there 👋
+### Here is JinMinChoi's GitHub!! All visitors Hello? 👋
 
 <!--
 **JinMinChoi/JinMinChoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- My Instagram : [real.__.min](https://www.instagram.com/real.__.min/)
+- 💖Instagram : [real.__.min](https://www.instagram.com/real.__.min/)
+- 🌹Development blog : [read_min](https://velog.io/@jinmin2216/)
