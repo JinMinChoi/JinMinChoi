@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ### <It is My Blog's>
 - 💖Instagram : [real.__.min](https://www.instagram.com/real.__.min/)
-- 🌹Development blog : [read_min](https://velog.io/@jinmin2216/)
+- 🌹Development blog : [real_min](https://velog.io/@jinmin2216/)
