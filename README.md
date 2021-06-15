@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- My Instagram : [real.__.min](!https://www.instagram.com/real.__.min/)
+- My Instagram : [real.__.min](https://www.instagram.com/real.__.min/)
