@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinMinChoi)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### <It is My Blog's>
-- 💖Instagram : [real.__.min](https://www.instagram.com/real.__.min/)
-- 🌹Development blog : [real_min](https://velog.io/@jinmin2216/)
+  - 💖[Instagram](https://www.instagram.com/real.__.min/)
+  - 🌹[Development blog](https://velog.io/@jinmin2216/)
+
+### <Study Langauge>
+  - [JAVA](),
