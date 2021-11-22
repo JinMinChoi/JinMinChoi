@@ -9,4 +9,4 @@
 ### <It is My Blog's>
   - 💖[Instagram](https://www.instagram.com/real.__.min/)
   - 🌹[Development blog](https://velog.io/@jinmin2216/)
-    https://velog-readme-stats.vercel.app/api?name=read_min
+    https://velog-readme-stats.vercel.app/api?name=real_min
